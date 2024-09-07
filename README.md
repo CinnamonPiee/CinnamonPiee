@@ -1,6 +1,7 @@
 # Hi, I'm Simon 👋
-Junior Backend Engineer. I have some knowledge in backend development on Python.
-In general worked with microservice arthitectures. Big part of my acitities is open-source.
+I am an ambitious and goal-oriented backend developer with
+consolidation of data in the field of information technology and hobbies
+programming.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=cinnamonpiee&show_icons=true&count_private=true"><img
